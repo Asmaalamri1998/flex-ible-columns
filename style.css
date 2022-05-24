@@ -1,0 +1,44 @@
+.row{
+    background-color:rgb(102, 171, 165) ;
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 25em;
+    height: 3em;
+    flex:1;
+    
+}
+.col{
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex:2;
+    
+}
+ 
+.col-2{
+    display:flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    flex:3;
+
+}
+div{
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px; 
+    display: flex; 
+    justify-content: flex;
+
+}
+
